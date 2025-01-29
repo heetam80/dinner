@@ -1,0 +1,35 @@
+@startwbs WBS_夕食をつくる
+title WBS_夕食をつくる
+ 
+
++[#White] 夜ご飯を作る
+
+**[#Aqua] 買い出しに行く
++++[#Yellow] 食材を買う
+
+
+**[#Aqua] メインを作る
++++[#Yellow]  米を炊く
++++[#Yellow]  肉を焼く
++++[#Yellow] 照り焼きソースを作る
++++[#Yellow] 皿に盛る
+
+**[#Aqua] 副菜を作る
++++[#Yellow]  お湯を沸かす
++++[#Yellow]  野菜を切る
++++[#Yellow]  野菜を茹でる
++++[#Yellow] 調味料と混ぜる
++++[#Yellow]  皿に盛る
+
+**[#Aqua] スープを作る
++++[#Yellow] お湯を沸かす
++++[#Yellow] 野菜を切る
++++[#Yellow] 調味料を入れて味を調える
++++[#Yellow] 皿に盛る
+
+**[#Aqua] デザートを作る
++++[#Yellow]  果物を切る
++++[#Yellow] 皿に盛る
+
+@endwbs
+

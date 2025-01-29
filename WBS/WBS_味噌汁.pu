@@ -1,0 +1,16 @@
+@startwbs WBS_野菜スープをつくる
+title WBS_野菜スープをつくる
+ 
+
++[#White] 野菜スープを作る
+**[#Aqua] 野菜を切る
++++[#Yellow] 野菜を切る
++++[#Yellow] 沸いたお湯に入れる
+
+**[#Aqua] スープを作る
++++[#Yellow] お湯を沸かす
++++[#Yellow] 調味料を入れる
+
+**[#Aqua] 皿に盛りつける
++++[#Yellow] 完成したスープを盛る
+@endwbs
