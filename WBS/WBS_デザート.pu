@@ -1,0 +1,13 @@
+@startwbs WBS_パフェをつくる
+title WBS_パフェをつくる
+ 
+
++[#White] パフェをつくる
+**[#Aqua] くだものを用意する
++++[#Yellow] バナナを薄切りにする
++++[#Yellow] みかん間の汁を切る
+
+**[#Aqua] 皿に盛る
+
+
+@endwbs
