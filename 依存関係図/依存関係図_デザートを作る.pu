@@ -1,0 +1,12 @@
+@startuml デザートを作る
+title デザートを作る
+start 
+
+fork
+  :バナナを薄切りにする;
+  :みかんの汁を切る;
+endfork
+  :盛り付ける;
+stop
+@enduml
+

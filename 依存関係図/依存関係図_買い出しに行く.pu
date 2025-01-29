@@ -1,0 +1,9 @@
+@startuml 買い出しに行く
+title 買い出しに行く
+start
+fork 
+:食材を買う;
+
+end fork
+
+stop

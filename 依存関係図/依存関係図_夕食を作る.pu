@@ -1,0 +1,29 @@
+@startuml 夕食を作る
+title 夕食を作る 
+
+start
+fork
+:スーパーで材料を買う;
+end fork
+fork 
+:米を炊く;
+fork again
+:肉を焼く;
+:照り焼きソースを作る;
+:皿に盛る;
+
+fork again
+:野菜を切る;
+:調味料と混ぜる;
+:皿に盛る;
+fork again
+:お湯を沸かす;
+:スープを作る;
+:皿に盛る;
+end fork
+fork 
+:果物を切る;
+:果物を皿に盛る;
+end fork
+
+stop
