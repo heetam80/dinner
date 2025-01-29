@@ -1,0 +1,18 @@
+@startuml 野菜スープを作る
+start
+
+title 野菜スープを作る
+
+fork 
+:野菜を切る;
+fork again
+:お湯を沸かす;
+:調味料を入れる;
+end fork
+fork 
+:わいたお湯に切った野菜を入れる;
+
+:完成したスープを盛る;
+end fork
+
+stop
